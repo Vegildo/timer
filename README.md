@@ -1,2 +1,2 @@
-# timer
-Ttimer usando Js
+# Timer
+Timer usando Js
